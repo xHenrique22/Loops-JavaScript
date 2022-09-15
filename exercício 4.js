@@ -8,7 +8,7 @@ let qtdOCalmos = 0;
 let qtdNerv40 = 0;
 let qtdC18 = 0;
 
-while (i < 2){
+while (i < 150){
     const idadeText = prompt('\nDigite a idade: ')
     const idade = Number(idadeText);
 
